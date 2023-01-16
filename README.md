@@ -1,4 +1,7 @@
 # ok_cupid_project
-OK Cupid profile project
+OK Cupid Data Exploration
 
-The .csv file is too large for github, but I will put my findings in a pdf
+Did this on Colab. <br>
+Examining trends in OK Cupid data. <br> <br>
+Limitations:
+Only two genders and three sexualities. Limited sample size.
